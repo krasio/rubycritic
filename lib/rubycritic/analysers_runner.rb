@@ -16,7 +16,7 @@ module Rubycritic
       Analyser::ReekSmells,
       Analyser::Complexity,
       Analyser::Attributes,
-      Analyser::Churn
+      # Analyser::Churn
     ]
 
     def initialize(paths)
